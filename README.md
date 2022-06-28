@@ -1,2 +1,0 @@
-# Chartium
-Gant/Kanban Software
